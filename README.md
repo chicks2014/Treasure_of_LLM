@@ -1,9 +1,8 @@
 # Awesome Treasure of Large Language Models Collection
 
-![](https://raw.githubusercontent.com/chicks2014/Treasure_of_LLM/blob/main/poster.png)
+![](https://github.com/chicks2014/Treasure_of_LLM/blob/f1dc3ea46279a8dd1883b3d9179324b0ec137ed3/poster.png)
 
 ![fw.jpg](https://github.com/ashishpatel26/Treasure-of-Transformers/blob/main/images/fw.jpg?raw=true)
-
 ---
 
 ###  🧑‍💻👩‍💻Collection of All LLMs algorithm list with Code 🧑‍💻👩‍💻![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
