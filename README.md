@@ -1,6 +1,6 @@
 # Awesome Treasure of Large Language Models Collection
 
-![](https://raw.githubusercontent.com/ashishpatel26/Treasure-of-Transformers/main/images/tot.jpg)
+![](https://raw.githubusercontent.com/chicks2014/Treasure_of_LLM/blob/main/poster.png)
 
 ![fw.jpg](https://github.com/ashishpatel26/Treasure-of-Transformers/blob/main/images/fw.jpg?raw=true)
 
