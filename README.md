@@ -1,6 +1,7 @@
 # Awesome Treasure of Large Language Models Collection
 
-![](./images/main_poster.jpg)
+![main_poster.jpg](./images/main_poster.jpg?raw=true)
+
 image source: https://arxiv.org/pdf/2304.13712.pdf
 
 ![fw.jpg](./images/fw.jpg)
