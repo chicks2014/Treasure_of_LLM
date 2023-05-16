@@ -1,10 +1,10 @@
 # Awesome Treasure of Large Language Models Collection
 
-![main_poster.jpg](./images/main_poster.jpg?raw=true)
+![main_poster.jpg](/images/main_poster.jpg?raw=true)
 
 image source: https://arxiv.org/pdf/2304.13712.pdf
 
-![fw.jpg](./images/fw.jpg)
+![fw.jpg](/images/fw.jpg)
 
 ---
 
