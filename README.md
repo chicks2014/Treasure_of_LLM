@@ -3,7 +3,8 @@
 ![](./images/main_poster.jpg)
 image source: https://arxiv.org/pdf/2304.13712.pdf
 
-![fw.jpg](https://github.com/chicks2014/Treasure_of_LLM/blob/main/images/fw.jpg?raw=true)
+![fw.jpg](./images/fw.jpg)
+
 ---
 
 ###  🧑‍💻👩‍💻Collection of All LLMs algorithm list with Code 🧑‍💻👩‍💻![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
